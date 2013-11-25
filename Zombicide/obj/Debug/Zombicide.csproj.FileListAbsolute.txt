@@ -1,0 +1,5 @@
+C:\Users\Peter's Desktop\Documents\Zombicide\Zombicide\Zombicide\obj\Debug\Zombicide.csprojResolveAssemblyReference.cache
+C:\Users\Peter's Desktop\Documents\Zombicide\Zombicide\Zombicide\bin\Debug\Zombicide.dll
+C:\Users\Peter's Desktop\Documents\Zombicide\Zombicide\Zombicide\bin\Debug\Zombicide.pdb
+C:\Users\Peter's Desktop\Documents\Zombicide\Zombicide\Zombicide\obj\Debug\Zombicide.dll
+C:\Users\Peter's Desktop\Documents\Zombicide\Zombicide\Zombicide\obj\Debug\Zombicide.pdb

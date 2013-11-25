@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Zombicide
+namespace Zombicide.Domain
 {
-    public class Class1
+    class Car
     {
     }
 }

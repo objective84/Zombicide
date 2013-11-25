@@ -39,7 +39,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Domain\Ability.cs" />
+    <Compile Include="Domain\Border.cs" />
+    <Compile Include="Domain\Car.cs" />
+    <Compile Include="Domain\Door.cs" />
+    <Compile Include="Domain\Equipment.cs" />
+    <Compile Include="Domain\Player.cs" />
+    <Compile Include="Domain\SpawnCard.cs" />
+    <Compile Include="Domain\SpawnPoint.cs" />
+    <Compile Include="Domain\Survivor.cs" />
+    <Compile Include="Domain\Switch.cs" />
+    <Compile Include="Domain\Tile.cs" />
+    <Compile Include="Domain\Weapon.cs" />
+    <Compile Include="Domain\Zombie.cs" />
+    <Compile Include="Domain\Zone.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
